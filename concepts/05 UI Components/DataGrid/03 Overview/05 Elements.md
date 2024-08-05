@@ -1,6 +1,6 @@
 Below is an element map. A click on an element navigates to the topic devoted to this element.
 
-<p><img src="/images/DataGrid/datagrid-elements.png" style="margin:0px auto; display:block; width:1000px; height:470px;" alt="DataGrid elements" usemap="#datagrid-elements">
+<p><img src="/images/DataGrid/datagrid-elements.png" style="margin:0px auto; display:block; width:1000px; height:470px;" alt="DataGrid elements" usemap="#datagrid-elements" density="compact">
 
 <map id="datagrid-elements" name="datagrid-elements">
     <area target="_blank" alt="Group panel" title="Group panel" href="/Documentation/Guide/UI_Components/DataGrid/Grouping/#User_Interaction/Group_Data" coords="16,15,141,52" shape="rect">
